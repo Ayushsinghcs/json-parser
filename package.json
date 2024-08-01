@@ -1,0 +1,12 @@
+{
+  "name": "json-parser-nnacres",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This will convert the figma tokens to required json ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Singh",
+  "license": "ISC"
+}
